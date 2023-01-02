@@ -1,1 +1,3 @@
-include platform/external/noto-fonts:/OWNERS
+version https://git-lfs.github.com/spec/v1
+oid sha256:4512c1286b90e447674bc34e5ddbc3c81aab3542730566118b43f5f3da9f24e0
+size 45

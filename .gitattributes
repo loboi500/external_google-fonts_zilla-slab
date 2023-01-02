@@ -1,0 +1,12 @@
+ZillaSlab-SemiBoldItalic.ttf filter=lfs diff=lfs merge=lfs -text
+DESCRIPTION.en_us.html filter=lfs diff=lfs merge=lfs -text
+fonts.mk filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BY_EXCEPTION_ONLY filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+ZillaSlab-Medium.ttf filter=lfs diff=lfs merge=lfs -text
+ZillaSlab-SemiBold.ttf filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+METADATA.pb filter=lfs diff=lfs merge=lfs -text
+ZillaSlab-MediumItalic.ttf filter=lfs diff=lfs merge=lfs -text
